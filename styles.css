@@ -1,0 +1,43 @@
+#single{
+    padding-top:40px;
+    padding-bottom:40px;
+    display:inline;
+}
+.post{
+    width:100%;
+}
+.collagepic{
+    max-width:415px;
+    height:415px;
+    object-fit:cover;
+    margin-bottom:25px;
+}
+.singlepost{
+    width: 500px;
+    background-color: white;
+}
+.single{
+    margin-bottom: 20px;
+}
+.date{
+    float:right;
+    padding-right:15px;
+    margin-top:-50px;
+}
+.title{
+    margin:15px;
+    margin-top:-5px;
+}
+h6{
+    padding:15px;
+    margin-top:-5px;
+}
+.caption{
+    padding:15px;
+    margin-top:-30px;
+    margin-bottom:20px;
+}
+.pic {
+    margin-top:-15px;
+    width: 499px;
+}
